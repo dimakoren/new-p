@@ -1,0 +1,22 @@
+body{
+    
+}
+.block{
+
+}
+.block_one{
+    height: 100px;
+    background-color: red;
+}
+.block_two{
+    height: 100px;
+    background-color: #4169e17a;
+    
+
+}
+.block_two:hover{
+    transform: translateY(-50px);
+    transition: 0.8s ease;
+    width: 50%;
+    margin: 0 auto;
+}
